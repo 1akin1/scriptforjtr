@@ -1,6 +1,6 @@
-Cracks passwords of zip files using John the Ripper
+Crack Passwords of ZIP Files Using John the Ripper
 
-Deletes hash files and only giving the password in the end
+This script cracks passwords of ZIP files using John the Ripper. It deletes the hash files after cracking and only displays the password at the end.
 
 How to use:
 
